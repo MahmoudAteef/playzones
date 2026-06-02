@@ -1,0 +1,16 @@
+Index of /logs
+[ICO]	Name	Last modified	Size	Description
+[PARENTDIR]	Parent Directory	 	-	 
+[   ]	auto_close_sessions.log	2026-06-01 17:30	91M	 
+[   ]	cron_output.log	2026-06-01 17:30	91M	 
+[   ]	sms_queue.log	2026-06-01 17:48	3.6M	 
+[   ]	sms_queue.log.2026-03-02-214701.bak	2026-03-02 19:47	10M	 
+[   ]	sms_queue.log.2026-03-14-022401.bak	2026-03-14 00:24	10M	 
+[   ]	sms_queue.log.2026-03-24-222801.bak	2026-03-24 20:28	10M	 
+[   ]	sms_queue.log.2026-04-04-183201.bak	2026-04-04 16:32	10M	 
+[   ]	sms_queue.log.2026-04-15-143601.bak	2026-04-15 12:36	10M	 
+[   ]	sms_queue.log.2026-04-26-114001.bak	2026-04-26 08:40	10M	 
+[   ]	sms_queue.log.2026-05-07-074301.bak	2026-05-07 04:43	10M	 
+[   ]	sms_queue.log.2026-05-18-034701.bak	2026-05-18 00:47	10M	 
+[   ]	sms_queue.log.2026-05-28-235101.bak	2026-05-28 20:51	10M	 
+Apache/2.4.58 (Ubuntu) Server at system.playzones.cloud Port 443

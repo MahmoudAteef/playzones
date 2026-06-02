@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+    <head>
+        <title>Index of /logs</title>
+    </head>
+    <body>
+        <h1>Index of /logs</h1>
+        <table>
+            <tr>
+                <th valign="top">
+                    <img src="/icons/blank.gif" alt="[ICO]">
+                </th>
+                <th>
+                    <a href="?C=N;O=D">Name</a>
+                </th>
+                <th>
+                    <a href="?C=M;O=A">Last modified</a>
+                </th>
+                <th>
+                    <a href="?C=S;O=A">Size</a>
+                </th>
+                <th>
+                    <a href="?C=D;O=A">Description</a>
+                </th>
+            </tr>
+            <tr>
+                <th colspan="5">
+                    <hr>
+                </th>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/back.gif" alt="[PARENTDIR]">
+                </td>
+                <td>
+                    <a href="/">Parent Directory</a>
+                </td>
+                <td>&nbsp;</td>
+                <td align="right">- </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="auto_close_sessions.log">auto_close_sessions.log</a>
+                </td>
+                <td align="right">2026-06-01 17:30  </td>
+                <td align="right">91M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="cron_output.log">cron_output.log</a>
+                </td>
+                <td align="right">2026-06-01 17:30  </td>
+                <td align="right">91M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log">sms_queue.log</a>
+                </td>
+                <td align="right">2026-06-01 17:44  </td>
+                <td align="right">3.6M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-03-02-214701.bak">sms_queue.log.2026-03-02-214701.bak</a>
+                </td>
+                <td align="right">2026-03-02 19:47  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-03-14-022401.bak">sms_queue.log.2026-03-14-022401.bak</a>
+                </td>
+                <td align="right">2026-03-14 00:24  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-03-24-222801.bak">sms_queue.log.2026-03-24-222801.bak</a>
+                </td>
+                <td align="right">2026-03-24 20:28  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-04-04-183201.bak">sms_queue.log.2026-04-04-183201.bak</a>
+                </td>
+                <td align="right">2026-04-04 16:32  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-04-15-143601.bak">sms_queue.log.2026-04-15-143601.bak</a>
+                </td>
+                <td align="right">2026-04-15 12:36  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-04-26-114001.bak">sms_queue.log.2026-04-26-114001.bak</a>
+                </td>
+                <td align="right">2026-04-26 08:40  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-05-07-074301.bak">sms_queue.log.2026-05-07-074301.bak</a>
+                </td>
+                <td align="right">2026-05-07 04:43  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-05-18-034701.bak">sms_queue.log.2026-05-18-034701.bak</a>
+                </td>
+                <td align="right">2026-05-18 00:47  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <img src="/icons/unknown.gif" alt="[   ]">
+                </td>
+                <td>
+                    <a href="sms_queue.log.2026-05-28-235101.bak">sms_queue.log.2026-05-28-235101.bak</a>
+                </td>
+                <td align="right">2026-05-28 20:51  </td>
+                <td align="right">10M</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <th colspan="5">
+                    <hr>
+                </th>
+            </tr>
+        </table>
+        <address>Apache/2.4.58 (Ubuntu) Server at system.playzones.cloud Port 443</address>
+    </body>
+</html>

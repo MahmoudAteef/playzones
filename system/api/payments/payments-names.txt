@@ -1,0 +1,8 @@
+Index of /api/payments
+[ICO]	Name	Last modified	Size	Description
+[PARENTDIR]	Parent Directory	 	-	 
+[   ]	create_subscription_payment.php	2026-05-18 12:56	13K	 
+[   ]	customer_provisioning_v2.php	2026-05-18 12:56	15K	 
+[   ]	paymob_unified_service.php	2026-05-18 12:56	11K	 
+[   ]	paymob_webhook.php	2026-05-18 12:56	13K	 
+Apache/2.4.58 (Ubuntu) Server at system.playzones.cloud Port 443

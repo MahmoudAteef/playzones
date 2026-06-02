@@ -1,0 +1,6 @@
+Index of /config
+[ICO]	Name	Last modified	Size	Description
+[PARENTDIR]	Parent Directory	 	-	 
+[   ]	database.php	2025-11-04 17:56	1.4K	 
+[   ]	system.php	2025-11-04 11:40	6.8K	 
+Apache/2.4.58 (Ubuntu) Server at system.playzones.cloud Port 443

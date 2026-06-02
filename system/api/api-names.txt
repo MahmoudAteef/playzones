@@ -1,0 +1,44 @@
+Index of /api
+[ICO]	Name	Last modified	Size	Description
+[PARENTDIR]	Parent Directory	 	-	 
+[   ]	billing-settings.php	2026-05-18 12:55	2.5K	 
+[   ]	cafe-actions.php	2026-05-18 12:55	13K	 
+[   ]	clear-sales.php	2026-05-18 12:56	4.9K	 
+[   ]	client-actions.php	2026-05-18 12:56	74K	 
+[   ]	client-status.php	2026-05-18 12:56	14K	 
+[   ]	controller-maintenance.php	2026-05-18 12:56	18K	 
+[   ]	currency-settings.php	2026-05-18 12:56	2.9K	 
+[   ]	customers.php	2026-05-18 12:56	6.9K	 
+[   ]	database.php	2026-05-18 12:56	1.4K	 
+[   ]	device-types.php	2026-05-18 12:56	5.2K	 
+[   ]	discount-employee.php	2026-05-18 12:56	8.3K	 
+[   ]	discount-my-status.php	2026-05-18 12:56	2.1K	 
+[   ]	discount-settings.php	2026-05-18 12:56	3.8K	 
+[   ]	email-report-actions.php	2026-05-18 12:56	20K	 
+[   ]	employee-actions.php	2026-05-18 12:56	19K	 
+[   ]	ewelink-actions.php	2026-05-18 12:56	21K	 
+[   ]	ewelink-client.php	2026-05-18 12:56	19K	 
+[   ]	ewelink-oauth-callback.php	2026-05-18 12:56	2.5K	 
+[   ]	ewelink-oauth-start.php	2026-05-18 12:56	3.3K	 
+[   ]	get-sales.php	2026-05-18 12:56	4.6K	 
+[   ]	get-server-time.php	2026-05-18 12:56	1.1K	 
+[   ]	inventory-status.php	2026-05-18 12:56	7.0K	 
+[   ]	landing-admin.php	2026-05-18 12:56	27K	 
+[   ]	landing-public-v2.php	2026-05-18 12:56	29K	 
+[DIR]	payments/	2025-11-04 11:39	-	 
+[   ]	plans.php	2026-05-18 12:56	23K	 
+[   ]	pwa-notification-settings.php	2026-05-18 12:56	1.9K	 
+[   ]	rooms.php	2026-05-18 12:56	19K	 
+[   ]	session-actions.php	2026-05-30 17:31	34K	 
+[   ]	session-order-actions.php	2026-05-18 12:56	12K	 
+[   ]	shift-actions.php	2026-05-18 12:56	23K	 
+[   ]	sms-actions.php	2026-05-18 12:56	56K	 
+[   ]	system-seo.php	2026-05-18 12:56	8.2K	 
+[   ]	system-settings.php	2026-05-18 12:56	15K	 
+[   ]	update-manifest.php	2026-05-18 12:56	8.2K	 
+[   ]	upload-banner-image.php	2026-05-18 12:56	6.1K	 
+[   ]	upload-faq-image.php	2026-05-18 12:56	2.7K	 
+[   ]	upload-pwa-icon.php	2026-05-18 12:56	5.2K	 
+[   ]	user-plan.php	2026-05-18 12:56	2.2K	 
+[   ]	user-preferences.php	2026-05-18 12:56	2.1K	 
+Apache/2.4.58 (Ubuntu) Server at system.playzones.cloud Port 443
